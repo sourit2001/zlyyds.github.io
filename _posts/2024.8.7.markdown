@@ -1,0 +1,13 @@
+---
+title: "利用coze学习编程"
+subtitle: "利用coze学习编程"
+layout: post
+author: "yyds"
+header-style: text
+hidden: true
+tags:
+  - LF (逻辑基础)
+  - SF (软件基础)
+  - Coq
+  - 笔记
+---
